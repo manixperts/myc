@@ -1,4 +1,6 @@
-# Created by .ignore support plugin (hsz.mobi)
+/vendor
+/node_modules
+.env
 ### Laravel template
 /bootstrap/compiled.php
 .env.*.php
